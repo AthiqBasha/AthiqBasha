@@ -1,4 +1,5 @@
 public class VariableDemo2 {
+	//super
 	public static void main(String[] args) {
 		//We should learn
 		//1. How to accept numbers
